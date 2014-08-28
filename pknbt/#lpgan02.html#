@@ -20,30 +20,48 @@
       <h2>
 	1. mkazyal ke
       </h2>
-      <p>
-	Silan: Ima lalu su?
-      </p>
-      <p>
-	Atay: Atay Sazyun lalu mu.
-      </p>
-      <p>
-	Atay: ima isu hiya?
-      </p>
-      <p>
-	Silan: mama saku la.
-      </p>
-      <p>
-	Silan: mosa su la?
-      </p>
-      <p>
-	Atay: iyat na, pcisal saku ha.
-      </p>
-      <p>
-	Silan: mosa su knwan pi?
-      </p>
-      <p>
-	Atay: mosa saku kira.
-      </p>
+      <div class="tayalDialogueTable">
+	<div>
+	  <p>
+	    Silan: Ima lalu su?
+	  </p>
+	</div>
+	<div>
+	  <p>
+	    Atay: Atay Sazyun lalu mu.
+	  </p>
+	</div>
+	<div>
+	  <p>
+	    Atay: ima isu hiya?
+	  </p>
+	</div>
+	<div>
+	  <p>
+	    Silan: mama saku la.
+	  </p>
+	</div>
+	<div>
+	  <p>
+	    Silan: mosa su la?
+	  </p>
+	</div>
+	<div>
+	  <p>
+	    Atay: iyat na, pcisal saku ha.
+	  </p>
+	</div>
+	<div>
+	  <p>
+	    Silan: mosa su knwan pi?
+	  </p>
+	</div>
+	<div>
+	  <p>
+	    Atay: mosa saku kira.
+	  </p>
+	</div>
+      </div>
     </section>
     <section>
       <h2>一、對話：吉娃斯，妳好嗎？</h2>
