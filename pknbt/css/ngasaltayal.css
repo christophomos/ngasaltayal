@@ -63,3 +63,7 @@ table, th, td {
     border: 1px solid white;
     padding: 4px;
 }
+
+span.newVocab {
+    font-style: italic;
+}
