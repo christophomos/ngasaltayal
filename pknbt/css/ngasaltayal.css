@@ -3,24 +3,24 @@ body {
     background-color: black;
     color: white;
 }
-div.tayalDialogueTable {
+div.splitDialogueTable {
     display: table; 
 }
-div.tayalDialogueRow {
+div.splitDialogueRow {
     display: table-row;
 }
-div.tayalDialogueCell {
+div.splitDialogueCell {
     display: table-cell;
     padding: 2px 7px;
 }
 
-div.chineseDialogueTable {
+div.singleDialogueTable {
     display: table; 
 }
-div.chineseDialogueRow {
+div.singleDialogueRow {
     display: table-row;
 }
-div.chineseDialogueCell {
+div.singleDialogueCell {
     display: table-cell;
     padding: 2px 7px;
 }
